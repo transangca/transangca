@@ -1,13 +1,11 @@
-<?php
-
 class Github {
-    private $username;
-    private $contacts;
-    private $aliases;
-    private $location;
-    private $age;
-    private $occupation;
-    private $operating_system;
+    private $ten;
+    private $lienhe;
+    private $bietdanh;
+    private $ip;
+    private $tuoi;
+    private $cv;
+    private $may;
 
     // Constructor
     public function __construct() {
@@ -16,49 +14,49 @@ class Github {
 
     // Initialize properties
     private function init() {
-        $this->username = "thanhdieutv";
-        $this->contacts = array(
-            "Discord" => "thanhdieutv#2278",
-            "Facebook" => "WusThanhDieu",
+        $this->ten = "thanhsangdev";
+        $this->lienhe = array(
+            "telegram" => "sieutool08",
+            "Facebook" => "axerdev",
         );
-        $this->aliases = array("thanhdieudev", "Tdv");
-        $this->location = "localhost, vietnamese";
-        $this->age = "22+";
-        $this->occupation = "Freelance Developer";
-        $this->operating_system = "Windows, Arch, Linux, VPS";
+        $this->bietdanh = array("thanhsangdev", "codezgit.com");
+        $this->ip = "localhost, vietnamese";
+        $this->tuoi = "16+";
+        $this->cv = "Web Developer";
+        $this->may = "Windows 10 x 11";
     }
 
     // Getter methods
-    public function getUsername() {
-        return $this->username;
+    public function getten() {
+        return $this->ten;
     }
 
-    public function getContacts() {
-        return $this->contacts;
+    public function getlienhe() {
+        return $this->lienhe;
     }
 
-    public function getAliases() {
-        return $this->aliases;
+    public function getbietdanh() {
+        return $this->bietdanh;
     }
 
-    public function getLocation() {
-        return $this->location;
+    public function getip() {
+        return $this->ip;
     }
 
-    public function getAge() {
-        return $this->age;
+    public function gettuoi() {
+        return $this->tuoi;
     }
 
-    public function getOccupation() {
-        return $this->occupation;
+    public function getcv() {
+        return $this->cv;
     }
 
-    public function getOperatingSystem() {
-        return $this->operating_system;
+    public function getmay() {
+        return $this->may;
     }
 }
 
 // Example usage
 $github = new Github();
-echo "Username: " . $github->getUsername() . "\n";
-echo "Location: " . $github->getLocation() . "\n";
+echo "ten: " . $github->getten() . "\n";
+echo "ip: " . $github->getip() . "\n";
