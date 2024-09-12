@@ -56,7 +56,3 @@ class Github {
     }
 }
 
-// Example usage
-$github = new Github();
-echo "ten: " . $github->getten() . "\n";
-echo "ip: " . $github->getip() . "\n";
