@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.imgur.com/I5T0Zin.jpeg" alt="thanhsang-banner" style="border-radius: 15px;">
+<img src="[https://i.imgur.com/I5T0Zin.jpeg](https://i.imgur.com/NCzwRft.jpeg)" alt="thanhsang-banner" style="border-radius: 15px;">
 <div align="center">
   <h1><pre>Hi, I'm ThanhSangDev</pre></h1>
 </div>
