@@ -1,58 +1,25 @@
-class Github {
-    private $ten;
-    private $lienhe;
-    private $bietdanh;
-    private $ip;
-    private $tuoi;
-    private $cv;
-    private $may;
+<div align="center">
 
-    // Constructor
-    public function __construct() {
-        $this->init();
-    }
+<img src="https://i.imgur.com/I5T0Zin.jpeg" alt="thanhdieu-banner" style="border-radius: 15px;">
+<div align="center">
+  <h1><pre>Hi, I'm ThanhSangDev</pre></h1>
+</div>
+Vẫn còn học hỏi !
+### My Stack
 
-    // Initialize properties
-    private function init() {
-        $this->ten = "thanhsangdev";
-        $this->lienhe = array(
-            "telegram" => "sieutool08",
-            "Facebook" => "axerdev",
-        );
-        $this->bietdanh = array("thanhsangdev", "codezgit.com");
-        $this->ip = "localhost, vietnamese";
-        $this->tuoi = "16+";
-        $this->cv = "Web Developer";
-        $this->may = "Windows 10 x 11";
-    }
+#### Tools
 
-    // Getter methods
-    public function getten() {
-        return $this->ten;
-    }
+![tools](https://skillicons.dev/icons?i=github,vscode,linux,git&perline=6&theme=dark)
 
-    public function getlienhe() {
-        return $this->lienhe;
-    }
 
-    public function getbietdanh() {
-        return $this->bietdanh;
-    }
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WusThanhDieu&layout=compact&hide=html&title_color=FFE652&theme=radical&text_color=71DFE7&hide_border=1&border_radius=10" alt="wusthanhdieu">
+</p>
 
-    public function getip() {
-        return $this->ip;
-    }
+### You can checkout my website
 
-    public function gettuoi() {
-        return $this->tuoi;
-    }
+https://thanhdieu.com/
 
-    public function getcv() {
-        return $this->cv;
-    }
-
-    public function getmay() {
-        return $this->may;
-    }
-}
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWusThanhDieu&count_bg=%23000000&title_bg=%23000000&icon=spacex.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
+ 
+</div>
