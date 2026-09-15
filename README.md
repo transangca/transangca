@@ -16,5 +16,4 @@ Vẫn còn học hỏi !
 
 ### You can checkout my website
 
-https://sang.website/ 
 </div>
