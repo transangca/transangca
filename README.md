@@ -1,38 +1,42 @@
 <div align="center">
 
-  <!-- Hiệu ứng Badge Chào mừng -->
-  <img src="https://komarev.com/ghpvc/?username=transangca&style=flat-square&color=71dfe7" alt="Profile Views" />
+  <a href="https://github.com/transangca">
+    <img src="https://komarev.com/ghpvc/?username=transangca&style=flat-square&color=71dfe7" alt="Profile Views" />
+  </a>
 
   <h1>
     <code>👋 Hi, I'm Trần Thanh Sang</code>
   </h1>
   
-  <p><em>🚀 Full-stack Developer | Đang không ngừng học hỏi và phát triển mỗi ngày!</em></p>
-
-  <br>
-
-  <!-- SKELETON LOADING SIMULATION (Hiệu ứng chờ tải chuyên nghiệp) -->
-  <div id="skeleton-section">
-    <table align="center" border="0" width="100%">
-      <tr>
-        <td align="center">
-          <img src="https://via.placeholder.com/600x150/1a1a1a/71dfe7?text=Loading+Tech+Stack..." width="80%" style="border-radius: 10px; opacity: 0.6; animation: pulse 1.5s infinite;" alt="Loading...">
-        </td>
-      </tr>
-    </table>
-  </div>
-
-  <br>
-
-  <!-- TECH STACK & TOOLS -->
-  <h3>🛠️ Tech Stack & Tools</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,html,css,js,nodejs,php,mysql,cloudflare,docker&perline=6&theme=dark" alt="Tech Stack Icons" />
+    <code>&lt;Developer /&gt; | Đang học hỏi, khám phá và xây dựng những điều thú vị mỗi ngày!</code>
   </p>
 
   <br>
 
-  <!-- GITHUB STATS & LANGUAGES (Bo góc mềm mại, tối ưu màu sắc) -->
+  <p>
+    <a href="https://github.com/transangca" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=FFE652" alt="GitHub" />
+    </a>
+    <a href="mailto:email@example.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+    </a>
+    <a href="https://sang.website" target="_blank">
+      <img src="https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=google-chrome&logoColor=71DFE7" alt="Website" />
+    </a>
+  </p>
+
+  <br>
+  <hr style="width: 50%; border: 0; height: 1px; background: linear-gradient(to right, transparent, #71DFE7, transparent);" />
+  <br>
+
+  <h3>🛠️ Tech Stack & Tools</h3>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,linux,cloudflare,docker&perline=6&theme=dark" alt="Tech Stack Icons" />
+  </p>
+
+  <br>
+
   <table align="center" border="0">
     <tr>
       <td align="center">
@@ -46,7 +50,24 @@
 
   <br>
 
-  <!-- CALL TO ACTION (CTA) - WEBSITE LINK -->
+  <table align="center" border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=transangca&theme=radical&hide_border=true&background=121212&side_and_text=71DFE7&ring=FFE652&curr_streak_num=FFE652" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=transangca&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+  </p>
+
+  <br>
+  <hr style="width: 50%; border: 0; height: 1px; background: linear-gradient(to right, transparent, #FFE652, transparent);" />
+  <br>
+
   <h3>🌐 Explore My Workspace</h3>
   <p>
     <a href="https://sang.website" target="_blank">
@@ -59,16 +80,6 @@
 
   <br>
 
-  <!-- THANH KẺ NGANG TRANG TRÍ -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553dd.gif" width="100%" alt="Divider">
 
 </div>
-
-<!-- CSS ANIMATION CHO HIỆU ỨNG SKELETON & HOVER -->
-<style>
-  @keyframes pulse {
-    0% { opacity: 0.3; }
-    50% { opacity: 0.8; }
-    100% { opacity: 0.3; }
-  }
-</style>
